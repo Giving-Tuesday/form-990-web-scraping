@@ -1,0 +1,9 @@
+bs4
+grequests
+matplotlib
+numpy
+pandas
+requests
+seaborn
+six
+tweepy
